@@ -1,0 +1,19 @@
+{
+  "name": "dotnet-engineering",
+  "version": "1.0.0",
+  "description": "A personal C# and .NET engineering standard - strong domain modeling, parse-don't-validate boundaries, discriminated-union results, typed error responses, vertical slices - bundled with a full .NET reference library and six specialist playbooks",
+  "author": {
+    "name": "Julian Echeverri"
+  },
+  "skills": [
+    "./skills/dotnet-engineering"
+  ],
+  "agents": [
+    "./skills/dotnet-engineering/references/specialists/akka-net-specialist.md",
+    "./skills/dotnet-engineering/references/specialists/docfx-specialist.md",
+    "./skills/dotnet-engineering/references/specialists/dotnet-benchmark-designer.md",
+    "./skills/dotnet-engineering/references/specialists/dotnet-concurrency-specialist.md",
+    "./skills/dotnet-engineering/references/specialists/dotnet-performance-analyst.md",
+    "./skills/dotnet-engineering/references/specialists/roslyn-incremental-generator-specialist.md"
+  ]
+}

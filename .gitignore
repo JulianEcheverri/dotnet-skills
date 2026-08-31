@@ -1,0 +1,12 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Local installs of this skill, if someone links or copies it inside the repo
+.claude/skills/
+.github/skills/
+.agents/skills/

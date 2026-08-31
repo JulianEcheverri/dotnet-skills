@@ -1,0 +1,15 @@
+{
+  "name": "dotnet-engineering",
+  "description": "Marketplace for the dotnet-engineering skill: a personal C# and .NET engineering standard with a bundled .NET reference library",
+  "owner": {
+    "name": "Julian Echeverri"
+  },
+  "plugins": [
+    {
+      "name": "dotnet-engineering",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "One skill covering the engineering standard plus thirty-six technology references and six specialist playbooks for .NET"
+    }
+  ]
+}

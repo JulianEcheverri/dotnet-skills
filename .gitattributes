@@ -1,0 +1,6 @@
+# Normalize text; keep shell scripts LF so they run on macOS/Linux, PowerShell CRLF.
+* text=auto
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.md text
+*.json text
